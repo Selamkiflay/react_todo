@@ -1,0 +1,29 @@
+.item {
+  width: 500px;
+  color: #353935;
+  font-size: 20px;
+  margin: 0 auto;
+}
+.iname {
+  font-weight: bold;
+  padding: 20px;
+}
+.hor {
+  border: 1px solid #f4f4f4;
+}
+.delbutton {
+  float: right;
+
+  display: inline-block;
+  border: none;
+  border-radius: 4px;
+  background-color: #f7ca18;
+  padding: 12px 20px;
+  color: white;
+  cursor: pointer;
+  margin-top: -5px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
